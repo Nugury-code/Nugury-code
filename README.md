@@ -28,7 +28,7 @@ ASTRA의 권한 회수·방화벽 대응·AI 보고서는 팀원이 담당했습
 | **AI·변경 관리** | Claude · Git · GitHub |
 | **대응 결과 확인** | pfSense |
 
-AI·문서·작업 기록을 참고한 활용 경험입니다. 각 도구로 실제 수행한 작업은 **[포트폴리오 기술란](https://nugury-code.github.io/seokyeon-portfolio/#skills)**에서 설명합니다.
+AI·문서·작업 기록을 참고한 활용 경험입니다. 각 도구로 실제 수행한 작업은 [포트폴리오 기술란](https://nugury-code.github.io/seokyeon-portfolio/#skills)에서 설명합니다.
 
 ## 교육·경험
 
