@@ -3,7 +3,6 @@
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=9CBE8B&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Python+Log+Analysis+%26+Anomaly+Detection;Linux+VM+Deployment+%26+Response+Verification;AI-assisted+Security+Assignments" alt="Python 로그 분석·이상탐지 / Linux VM 배포·대응 검증 / AI 활용 보안 과제"></p>
 <p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/badges/portfolio.svg" alt="PORTFOLIO"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="assets/badges/astra-source.svg" alt="ASTRA SOURCE"></a> <a href="mailto:nuguly6248@naver.com"><img src="assets/badges/contact.svg" alt="CONTACT"></a></p>
 <p><img src="assets/badges/4-attack-scenarios.svg" alt="4 ATTACK SCENARIOS"> <img src="assets/badges/skt-aleph-class-top.svg" alt="SKT ALEPH · CLASS TOP"></p>
-<p><img src="assets/profile-focus.svg" width="100%" alt="Python 탐지 자동화 · VM 배포·대응 연계 · AI 활용·결과 검토"></p>
 </div>
 
 ### 👋 About Me
@@ -17,17 +16,17 @@ SKT ALEPH 캡스톤에서 로그 수집·정규화와 탐지 규칙 구현, Linu
 ### 🛡️ Featured Projects
 
 <table>
-<thead><tr><th width="29%">프로젝트·담당</th><th width="51%">구현과 확인한 결과</th><th width="20%">바로 보기</th></tr></thead>
+<thead><tr><th width="32%">Project &amp; Core Domain</th><th width="48%">Problem &amp; Solution</th><th width="20%">Direct Links</th></tr></thead>
 <tbody>
 <tr>
-<td valign="top"><h3>ASTRA</h3><b>Python 이상행위<br>탐지 자동화</b><p>SKT ALEPH<br>4인 캡스톤</p><p>Python · Linux<br>MariaDB · VMware</p><b>담당</b><br>로그 처리·탐지 구현<br>VM 배포·연계 검증</td>
-<td valign="top"><p><b>구현</b><br>로그 수집·정규화, 브루트포스·퇴사자 계정·권한 밖 접근·SQL Injection 패턴 탐지와 위험 점수 산정.</p><p><b>문제 해결</b><br>동일 접근의 탐지 근거를 합산해 단일 이벤트로 표시하고, 서로 다른 접근은 분리하도록 검증.</p><p><b>확인 근거</b><br>실제 시연 4편 · 공개본 오프라인 재현 6사례 · 자동 검증 16개.</p></td>
-<td align="center"><p><a href="https://nugury-code.github.io/seokyeon-portfolio/#work">🎬 시연 4편</a></p><p><a href="https://github.com/Nugury-code/ASTRA">💻 탐지 소스</a></p><p><a href="https://github.com/Nugury-code/ASTRA/blob/main/docs/VALIDATION.md">✅ 검증 기록</a></p></td>
+<td valign="top"><h3>🛡️ ASTRA</h3><p><b>Python 이상행위 탐지 자동화<br>로그 수집·정규화·위험 점수</b></p><p><img src="assets/project-badges/python.svg" height="20" alt="Python"> <img src="assets/project-badges/linux.svg" height="20" alt="Linux"> <img src="assets/project-badges/mariadb.svg" height="20" alt="MariaDB"> <img src="assets/project-badges/vmware.svg" height="20" alt="VMware"></p><small>SKT ALEPH · 4인 캡스톤<br>탐지 구현·VM 배포·대응 연계 검증 담당</small></td>
+<td valign="top"><ul><li><b>핵심 구현:</b> 브루트포스·퇴사자 계정·권한 밖 접근·SQL Injection 패턴을 판별하고 위험 점수·근거를 이벤트로 정리.</li><li><b>Challenge:</b> 동일 접근의 탐지 근거가 분리돼 70점·15점으로 표시되는 문제.</li><li><b>Solution:</b> 동일 원본 접근의 근거를 합산해 <b>85점 단일 이벤트</b>로 표시하고, 다른 접근은 분리하도록 검증.</li></ul><p><b>검증:</b> 실제 시연 4편 · 공개본 재현 6사례 · 자동 검증 16개.</p></td>
+<td align="center"><br><a href="https://nugury-code.github.io/seokyeon-portfolio/assets/projects/astra/offboarded.mp4"><img src="assets/project-badges/watch-demo.svg" width="126" height="29" alt="WATCH DEMO"></a><br><br><a href="https://nugury-code.github.io/seokyeon-portfolio/#work"><img src="assets/project-badges/showcase.svg" width="126" height="29" alt="SHOWCASE"></a><br><br><a href="https://github.com/Nugury-code/ASTRA"><img src="assets/project-badges/github-repo.svg" width="126" height="29" alt="GITHUB REPO"></a><br><br></td>
 </tr>
 <tr>
-<td valign="top"><h3>ZTNA · XDR</h3><b>AI 활용 보안 과제</b><p>SKT ALEPH<br>교육 과정 과제</p><p>JavaScript · Supabase<br>Vercel · Windows</p><b>수행</b><br>AI 활용 구현·결과 검토<br>수정 범위·대안 판단</td>
-<td valign="top"><p><b>과제 범위</b><br>비밀금고 웹 접근통제, XDR 교육용 경보 6유형 판정, PC 보안 Agent 학생 확장.</p><p><b>문제 해결 과정</b><br>실행 결과와 실패 원인을 검토하고, 수정 범위·대안을 선택. 커밋·Push 반영과 실행 안내 문서까지 확인.</p><p><b>기여 구분</b><br>AI가 코드 작성·수정을 지원하고, 본인이 실행·결과 검토·판단·배포 확인을 수행.</p></td>
-<td align="center"><p><a href="https://nugury-code.github.io/seokyeon-portfolio/#work">📂 과제 정리</a></p><p><a href="https://github.com/Nugury-code/choi-bujang-secret-vault">🔒 웹·XDR 코드</a></p><p><a href="https://github.com/Nugury-code/KESHEV-Defense">🖥️ Agent 코드</a></p></td>
+<td valign="top"><h3>🔒 ZTNA · XDR</h3><p><b>AI 활용 보안 과제<br>웹 접근통제·경보 판정·PC Agent</b></p><p><img src="assets/project-badges/javascript.svg" height="20" alt="JavaScript"> <img src="assets/project-badges/supabase.svg" height="20" alt="Supabase"> <img src="assets/project-badges/vercel.svg" height="20" alt="Vercel"> <img src="assets/project-badges/ztna.svg" height="20" alt="ZTNA"> <img src="assets/project-badges/xdr.svg" height="20" alt="XDR"></p><small>SKT ALEPH 교육 과정 과제<br>AI 활용 구현·실행 결과 검토·수정 범위 판단</small></td>
+<td valign="top"><ul><li><b>수행 범위:</b> 비밀금고 웹 접근통제, 교육용 XDR <b>6유형 판정</b>, PC 보안 Agent 학생 확장.</li><li><b>Challenge:</b> 미연결 서비스를 정상으로 표시하거나, 수정본 반영 여부·실패 원인이 불분명한 상태.</li><li><b>Solution:</b> 미연결 상태를 <b>‘확인 불가’로 구분</b>하도록 판단하고, 실행·재제출과 커밋·Push 반영·안내 문서까지 확인.</li></ul><p><b>기여:</b> AI가 코드 작성을 지원하고, 본인이 실행·결과 검토·수정 범위와 대안 선택을 수행.</p></td>
+<td align="center"><br><a href="https://nugury-code.github.io/seokyeon-portfolio/#work"><img src="assets/project-badges/showcase.svg" width="126" height="29" alt="SHOWCASE"></a><br><br><a href="https://github.com/Nugury-code/choi-bujang-secret-vault"><img src="assets/project-badges/github-repo.svg" width="126" height="29" alt="GITHUB REPO"></a><br><br><a href="https://github.com/Nugury-code/KESHEV-Defense"><img src="assets/project-badges/agent-repo.svg" width="126" height="29" alt="AGENT REPO"></a><br><br></td>
 </tr>
 </tbody>
 </table>
