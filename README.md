@@ -3,6 +3,7 @@
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=9CBE8B&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Python+Log+Analysis+%26+Anomaly+Detection;Linux+VM+Deployment+%26+Response+Verification;AI-assisted+Security+Assignments" alt="Python 로그 분석·이상탐지 / Linux VM 배포·대응 검증 / AI 활용 보안 과제"></p>
 <p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/badges/portfolio.svg" alt="PORTFOLIO"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="assets/badges/astra-source.svg" alt="ASTRA SOURCE"></a> <a href="mailto:nuguly6248@naver.com"><img src="assets/badges/contact.svg" alt="CONTACT"></a></p>
 <p><img src="assets/badges/4-attack-scenarios.svg" alt="4 ATTACK SCENARIOS"> <img src="assets/badges/skt-aleph-class-top.svg" alt="SKT ALEPH · CLASS TOP"></p>
+<p><img src="assets/profile-focus.svg" width="100%" alt="Python 탐지 자동화 · VM 배포·대응 연계 · AI 활용·결과 검토"></p>
 </div>
 
 ### 👋 About Me
@@ -52,7 +53,19 @@ ASTRA의 **권한 회수·방화벽 대응·AI 보고서는 팀원이 담당**�
 <p><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/github.svg" alt="GitHub"></p>
 </div>
 
+<p align="center"><a href="https://nugury-code.github.io/seokyeon-portfolio/#skills"><img src="assets/tech-icons/python.svg" width="54" height="54" alt="Python" title="Python"> <img src="assets/tech-icons/javascript.svg" width="54" height="54" alt="JavaScript" title="JavaScript"> <img src="assets/tech-icons/linux.svg" width="54" height="54" alt="Linux" title="Linux"> <img src="assets/tech-icons/mariadb.svg" width="54" height="54" alt="MariaDB" title="MariaDB"> <img src="assets/tech-icons/supabase.svg" width="54" height="54" alt="Supabase" title="Supabase"> <img src="assets/tech-icons/vercel.svg" width="54" height="54" alt="Vercel" title="Vercel"> <img src="assets/tech-icons/putty.svg" width="54" height="54" alt="SSH / PuTTY" title="SSH / PuTTY"> <img src="assets/tech-icons/tailscale.svg" width="54" height="54" alt="Tailscale" title="Tailscale"> <img src="assets/tech-icons/claude.svg" width="54" height="54" alt="Claude" title="Claude"> <img src="assets/tech-icons/github.svg" width="54" height="54" alt="GitHub" title="GitHub"></a></p>
+
 프로젝트·교육 과제에서 **AI·문서·작업 기록을 참고해 활용한 도구**입니다. [각 도구로 수행한 작업](https://nugury-code.github.io/seokyeon-portfolio/#skills)을 포트폴리오에 정리했습니다.
+
+### 📊 GitHub Activity
+
+<table><tr>
+<td width="54%"><img src="assets/stats/activity.svg" width="100%" alt="GitHub 공개 활동 통계"></td>
+<td width="46%"><img src="assets/stats/languages.svg" width="100%" alt="공개 저장소의 코드 언어 분포"></td>
+</tr></table>
+
+2026.11.27 공개 활동 스냅샷 · [집계 원본](https://github-stats-extended.vercel.app/api?username=Nugury-code&amp;show_icons=true&amp;hide_rank=true)  
+코드 언어 분포는 공개 저장소의 구성입니다.
 
 ### 🎓 Education & Verification
 
