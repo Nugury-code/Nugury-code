@@ -61,7 +61,7 @@ ASTRA의 **권한 회수·방화벽 대응·AI 보고서는 팀원이 담당**�
 
 <table><tr>
 <td width="54%"><img src="assets/stats/activity.svg" width="100%" alt="GitHub 공개 활동 통계"></td>
-<td width="46%"><img src="assets/stats/languages.svg" width="100%" alt="공개 저장소의 코드 언어 분포"></td>
+<td width="46%"><img src="assets/stats/languages-chart.svg" width="100%" alt="공개 저장소의 코드 언어 분포"></td>
 </tr></table>
 
 2026.11.27 공개 활동 스냅샷 · [집계 원본](https://github-stats-extended.vercel.app/api?username=Nugury-code&amp;show_icons=true&amp;hide_rank=true)  
