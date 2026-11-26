@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/profile-header.svg" width="100%" alt="원석연 — Python 이상행위 탐지 자동화 · VM 배포 · AI 활용"></a>
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=9CBE8B&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Python+Log+Analysis+%26+Anomaly+Detection;Linux+VM+Deployment+%26+Response+Verification;AI-assisted+Security+Assignments" alt="Python 로그 분석·이상탐지 / Linux VM 배포·대응 검증 / AI 활용 보안 과제"></p>
-<p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-526844?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="PORTFOLIO"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="https://img.shields.io/badge/ASTRA%20SOURCE-253d35?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="ASTRA SOURCE"></a> <a href="mailto:nuguly6248@naver.com"><img src="https://img.shields.io/badge/CONTACT-33423e?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="CONTACT"></a></p>
-<p><img src="https://img.shields.io/badge/4%20ATTACK%20SCENARIOS-335f50?style=for-the-badge" alt="4 ATTACK SCENARIOS"> <img src="https://img.shields.io/badge/SKT%20ALEPH%20%C2%B7%20CLASS%20TOP-64734d?style=for-the-badge" alt="SKT ALEPH · CLASS TOP"></p>
+<p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/badges/portfolio.svg" alt="PORTFOLIO"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="assets/badges/astra-source.svg" alt="ASTRA SOURCE"></a> <a href="mailto:nuguly6248@naver.com"><img src="assets/badges/contact.svg" alt="CONTACT"></a></p>
+<p><img src="assets/badges/4-attack-scenarios.svg" alt="4 ATTACK SCENARIOS"> <img src="assets/badges/skt-aleph-class-top.svg" alt="SKT ALEPH · CLASS TOP"></p>
 </div>
 
 ### 👋 About Me
@@ -43,13 +43,13 @@ ASTRA의 **권한 회수·방화벽 대응·AI 보고서는 팀원이 담당**�
 
 <div align="center">
 <h4>Python · 로그 분석 · 데이터</h4>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"></p>
+<p><img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/mariadb.svg" alt="MariaDB"> <img src="assets/badges/sql.svg" alt="SQL"></p>
 <h4>서버 · 가상화 · 대응 연계</h4>
-<p><img src="https://img.shields.io/badge/Linux-353b3d?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&amp;logo=vmware&amp;logoColor=white" alt="VMware"> <img src="https://img.shields.io/badge/SSH%20%2F%20PuTTY-42686e?style=for-the-badge" alt="SSH / PuTTY"> <img src="https://img.shields.io/badge/Tailscale-242a2c?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale"> <img src="https://img.shields.io/badge/pfSense-1e4d70?style=for-the-badge&amp;logo=freebsd&amp;logoColor=white" alt="pfSense"></p>
+<p><img src="assets/badges/linux.svg" alt="Linux"> <img src="assets/badges/vmware.svg" alt="VMware"> <img src="assets/badges/ssh-putty.svg" alt="SSH / PuTTY"> <img src="assets/badges/tailscale.svg" alt="Tailscale"> <img src="assets/badges/pfsense.svg" alt="pfSense"></p>
 <h4>교육 과제 · 웹 접근통제 · 배포</h4>
-<p><img src="https://img.shields.io/badge/JavaScript-83720f?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Supabase-27845c?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Vercel-242a2c?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Windows-0078d4?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/ZTNA-4a596b?style=for-the-badge" alt="ZTNA"> <img src="https://img.shields.io/badge/XDR-466858?style=for-the-badge" alt="XDR"></p>
+<p><img src="assets/badges/javascript.svg" alt="JavaScript"> <img src="assets/badges/supabase.svg" alt="Supabase"> <img src="assets/badges/vercel.svg" alt="Vercel"> <img src="assets/badges/windows.svg" alt="Windows"> <img src="assets/badges/ztna.svg" alt="ZTNA"> <img src="assets/badges/xdr.svg" alt="XDR"></p>
 <h4>AI 활용 · 버전 관리</h4>
-<p><img src="https://img.shields.io/badge/Claude-a9684b?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Git-c44f36?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-242a2c?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></p>
+<p><img src="assets/badges/claude.svg" alt="Claude"> <img src="assets/badges/git.svg" alt="Git"> <img src="assets/badges/github.svg" alt="GitHub"></p>
 </div>
 
 프로젝트·교육 과제에서 **AI·문서·작업 기록을 참고해 활용한 도구**입니다. [각 도구로 수행한 작업](https://nugury-code.github.io/seokyeon-portfolio/#skills)을 포트폴리오에 정리했습니다.
