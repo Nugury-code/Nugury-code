@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Seokyeon Won, Security and IT Technical Support portfolio">
+<rect x="1" y="1" width="1198" height="288" rx="22" fill="#f6f5ef" stroke="#d9ddd1"/>
+<path d="M1010 30c-95 40-82 118 3 178M1080 58c-118 54-82 137-4 180" fill="none" stroke="#a9b592" stroke-width="2" opacity=".45"/>
+<circle cx="1107" cy="105" r="97" fill="#d9dfcf" opacity=".5"/>
+<text x="58" y="62" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#64734d">SECURITY · IT TECH SUPPORT · OPERATIONS · QA</text>
+<text x="54" y="134" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#29382c">SEOKYEON WON</text>
+<text x="58" y="184" font-family="Arial,'Malgun Gothic',sans-serif" font-size="27" font-weight="600" fill="#435536">원석연 · 학습한 내용을 실행하고, 결과를 검증합니다.</text>
+<rect x="58" y="216" width="246" height="35" rx="17" fill="#e7ecdd"/><text x="78" y="239" font-family="Arial,sans-serif" font-size="15" fill="#4c5b3e">PYTHON · LOGS · AI WORKFLOW</text>
+</svg>
