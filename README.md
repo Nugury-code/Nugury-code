@@ -1,8 +1,10 @@
 <div align="center">
 <a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/profile-header.svg" width="100%" alt="원석연 — Python 이상행위 탐지 자동화 · VM 배포 · AI 활용"></a>
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=9CBE8B&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Python+Log+Analysis+%26+Anomaly+Detection;Linux+VM+Deployment+%26+Response+Verification;AI-assisted+Security+Assignments" alt="Python 로그 분석·이상탐지 / Linux VM 배포·대응 검증 / AI 활용 보안 과제"></p>
-<p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/badges/portfolio.svg" alt="PORTFOLIO"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="assets/badges/astra-source.svg" alt="ASTRA SOURCE"></a> <a href="mailto:nuguly6248@naver.com"><img src="assets/badges/contact.svg" alt="CONTACT"></a></p>
-<p><img src="assets/badges/4-attack-scenarios.svg" alt="4 ATTACK SCENARIOS"> <img src="assets/badges/skt-aleph-class-top.svg" alt="SKT ALEPH · CLASS TOP"></p>
+<p><a href="https://nugury-code.github.io/seokyeon-portfolio/"><img src="assets/header-badges/portfolio.svg" height="28" alt="PORTFOLIO · 프로젝트·시연 보기"></a> <a href="https://github.com/Nugury-code/ASTRA"><img src="assets/header-badges/source.svg" height="28" alt="GITHUB · ASTRA 탐지 소스"></a> <a href="mailto:nuguly6248@naver.com"><img src="assets/header-badges/contact.svg" height="28" alt="CONTACT · nuguly6248@naver.com"></a></p>
+<p><img src="assets/header-badges/career.svg" height="28" alt="CAREER · 보안·IT 기술지원"> <img src="assets/header-badges/location.svg" height="28" alt="LOCATION · 전국 근무 가능"></p>
+<p><a href="https://github.com/Nugury-code/ASTRA/tree/main/detection"><img src="assets/header-badges/automation.svg" height="28" alt="AUTOMATION · Python 로그 분석·탐지"></a> <img src="assets/header-badges/deploy.svg" height="28" alt="DEPLOY · Linux VM 배포"> <img src="assets/header-badges/response.svg" height="28" alt="RESPONSE · pfSense 연계·차단 검증"></p>
+<p><a href="https://nugury-code.github.io/seokyeon-portfolio/#work"><img src="assets/header-badges/demonstrations.svg" height="28" alt="DEMO · 4개 공격 시나리오"></a> <a href="https://nugury-code.github.io/seokyeon-portfolio/#certificates"><img src="assets/header-badges/education.svg" height="28" alt="SKT ALEPH · Class Top · 14 / 132"></a></p>
 </div>
 
 ### 👋 About Me
