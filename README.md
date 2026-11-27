@@ -48,19 +48,8 @@ ASTRA의 **권한 회수·방화벽 대응·AI 보고서는 팀원이 담당**�
 <tr><td><b>AI &amp; Version Control</b></td><td><img src="assets/badges/claude.svg" height="28" alt="Claude"> <img src="assets/badges/git.svg" height="28" alt="Git"> <img src="assets/badges/github.svg" height="28" alt="GitHub"></td></tr>
 </table>
 
-<p align="center"><a href="https://nugury-code.github.io/seokyeon-portfolio/#skills"><img src="assets/tech-icons/python.svg" width="54" height="54" alt="Python" title="Python"> <img src="assets/tech-icons/javascript.svg" width="54" height="54" alt="JavaScript" title="JavaScript"> <img src="assets/tech-icons/linux.svg" width="54" height="54" alt="Linux" title="Linux"> <img src="assets/tech-icons/mariadb.svg" width="54" height="54" alt="MariaDB" title="MariaDB"> <img src="assets/tech-icons/supabase.svg" width="54" height="54" alt="Supabase" title="Supabase"> <img src="assets/tech-icons/vercel.svg" width="54" height="54" alt="Vercel" title="Vercel"> <img src="assets/tech-icons/putty.svg" width="54" height="54" alt="SSH / PuTTY" title="SSH / PuTTY"> <img src="assets/tech-icons/tailscale.svg" width="54" height="54" alt="Tailscale" title="Tailscale"> <img src="assets/tech-icons/claude.svg" width="54" height="54" alt="Claude" title="Claude"> <img src="assets/tech-icons/github.svg" width="54" height="54" alt="GitHub" title="GitHub"></a></p>
 
 프로젝트·교육 과제에서 **AI·문서·작업 기록을 참고해 활용한 도구**입니다. [각 도구로 수행한 작업](https://nugury-code.github.io/seokyeon-portfolio/#skills)을 포트폴리오에 정리했습니다.
-
-### Activity
-
-<table><tr>
-<td width="54%"><img src="assets/stats/activity.svg" width="100%" alt="GitHub 공개 활동 통계"></td>
-<td width="46%"><img src="assets/stats/languages-chart.svg" width="100%" alt="공개 저장소의 코드 언어 분포"></td>
-</tr></table>
-
-2026.11.27 공개 활동 스냅샷 · [집계 원본](https://github-stats-extended.vercel.app/api?username=Nugury-code&amp;show_icons=true&amp;hide_rank=true)  
-코드 언어 분포는 공개 저장소의 구성입니다.
 
 ### Education
 
